@@ -1,5 +1,6 @@
 # System Design
 [System Design Interview -  Nishant Sharma](https://medium.com/system-designing-interviews)
+
 [System that scale](https://systemsthatscale.org/)
 
 # OS/Concurrency
